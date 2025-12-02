@@ -29,6 +29,6 @@ I'm currently focusing on studying Python and Web Development: TSX, PHP and Lara
 </br>
 
 <div align="center">  
-<a href="https://www.instagram.com/dkode.js/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.instagram.com/jdkzinn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div> 
 
