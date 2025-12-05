@@ -3,7 +3,7 @@
 [![dk](https://readme-typing-svg.herokuapp.com/?color=9745F5&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Deryk+Silva;I+study+analysis+and+systems+development;Be+Welcome!+👨🏻‍💻)](https://git.io/typing-svg) 
 
 <div align="center">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdkzinn&layout=compact&langs_count=6&theme=midnight-purple"/> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jdkzinn&theme=midnight-purple&hide_border=true"/> <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jdkzinn&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/> -->
+ <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdkzinn&layout=compact&langs_count=6&theme=midnight-purple"/> --> <img height="210em" src="https://github-readme-streak-stats.herokuapp.com/?user=jdkzinn&theme=midnight-purple&hide_border=true"/> <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jdkzinn&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/> -->
 </div>
 <br>
 
