@@ -13,11 +13,11 @@
 
  
 ### 💻 My skills:
-![PY](https://github.com/user-attachments/assets/691bbd21-6cd8-48c3-89ac-e1985b5d10d6) ![PostgreSQL](https://github.com/user-attachments/assets/14e36679-71ec-4da7-804d-e4228e8b74de) 
+![PY](https://github.com/user-attachments/assets/691bbd21-6cd8-48c3-89ac-e1985b5d10d6) ![JAVA](https://github.com/jdkzinn/jdkzinn/blob/main/java.png) ![PostgreSQL](https://github.com/user-attachments/assets/14e36679-71ec-4da7-804d-e4228e8b74de) 
 
  
 ### 📚 Studying in this moment:
-![PY](https://github.com/user-attachments/assets/691bbd21-6cd8-48c3-89ac-e1985b5d10d6) <img src="https://github.com/jdkzinn/jdkzinn/blob/main/javasvg.svg" alt="JAVA" width="50" height="50" />
+![PY](https://github.com/user-attachments/assets/691bbd21-6cd8-48c3-89ac-e1985b5d10d6) ![JAVA](https://github.com/jdkzinn/jdkzinn/blob/main/java.png)
 
 
 I've been in the technology field for over 5 years and I'm always looking for new learning and discoveries.
