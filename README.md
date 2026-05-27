@@ -13,12 +13,11 @@
 
  
 ### 💻 My skills:
-![PHP](https://github.com/user-attachments/assets/a8522f90-602c-4fc6-b02e-8d2fee07ce4d) ![NodeJS](https://github.com/user-attachments/assets/e0882931-2ac8-4c3f-a25a-9c54eaa304c3) ![JS](https://github.com/user-attachments/assets/91e7b254-13e0-40de-9fa2-0346bf73e697) ![TS](https://github.com/user-attachments/assets/0c131aaa-b4df-4065-b713-719c47e2e14e)
- ![REACT](https://github.com/user-attachments/assets/8f28bce1-b137-42d5-bbdd-de588556c8ba) ![PY](https://github.com/user-attachments/assets/691bbd21-6cd8-48c3-89ac-e1985b5d10d6) ![PostgreSQL](https://github.com/user-attachments/assets/14e36679-71ec-4da7-804d-e4228e8b74de)
+![PY](https://github.com/user-attachments/assets/691bbd21-6cd8-48c3-89ac-e1985b5d10d6) ![PostgreSQL](https://github.com/user-attachments/assets/14e36679-71ec-4da7-804d-e4228e8b74de) 
 
  
 ### 📚 Studying in this moment:
-<img src="https://github.com/jdkzinn/jdkzinn/blob/main/javasvg.svg" alt="JAVA" width="50" height="50" />
+![PY](https://github.com/user-attachments/assets/691bbd21-6cd8-48c3-89ac-e1985b5d10d6) <img src="https://github.com/jdkzinn/jdkzinn/blob/main/javasvg.svg" alt="JAVA" width="50" height="50" />
 
 
 I've been in the technology field for over 5 years and I'm always looking for new learning and discoveries.
