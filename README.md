@@ -13,15 +13,13 @@
 
  
 ### 💻 My skills:
-![PY](https://github.com/user-attachments/assets/691bbd21-6cd8-48c3-89ac-e1985b5d10d6) ![JAVA](https://github.com/jdkzinn/jdkzinn/blob/main/java.png) ![PostgreSQL](https://github.com/user-attachments/assets/14e36679-71ec-4da7-804d-e4228e8b74de) 
-
+<img src="https://github.com/user-attachments/assets/691bbd21-6cd8-48c3-89ac-e1985b5d10d6" width="32" /> <img src="https://raw.githubusercontent.com/jdkzinn/jdkzinn/main/java.png" width="32" /> <img src="https://github.com/user-attachments/assets/14e36679-71ec-4da7-804d-e4228e8b74de" width="32" />
  
 ### 📚 Studying in this moment:
-![PY](https://github.com/user-attachments/assets/691bbd21-6cd8-48c3-89ac-e1985b5d10d6) ![JAVA](https://github.com/jdkzinn/jdkzinn/blob/main/java.png)
+<img src="https://raw.githubusercontent.com/jdkzinn/jdkzinn/main/icons8-amazon-aws-24.png" width="30" /> <img src="https://raw.githubusercontent.com/jdkzinn/jdkzinn/main/java.png" width="32" /> <img src="https://github.com/user-attachments/assets/691bbd21-6cd8-48c3-89ac-e1985b5d10d6" width="32" />
 
+Application Developer at IBM, currently working on the Itaú Unibanco project. Passionate about backend development, cloud computing and scalable solutions, constantly improving my skills in AWS, Java, Python and modern web technologies.
 
-I've been in the technology field for over 5 years and I'm always looking for new learning and discoveries.
-I'm currently focusing on studying Python and Web Development: TSX, PHP and Laravel.
 - 📫 You can contact me via email: derykalcinodasilva@icloud.com
 - 📫 You can also contact me via [LinkedIn](https://www.linkedin.com/in/deryk-silva/)
 
